@@ -1,0 +1,5 @@
+webdriver_manager
+selenium
+pillow==8.4.0
+numpy
+opencv-contrib-python
