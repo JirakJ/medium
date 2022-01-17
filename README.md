@@ -1,1 +1,1 @@
-Medium supported repository
+Medium support repository
